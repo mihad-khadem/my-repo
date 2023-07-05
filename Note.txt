@@ -1,0 +1,22 @@
+Git & Github
+Its a vesion control system, as a lind of database...
+
+
+Why version Control system is neeeded??
+
+1.Collaboration
+
+Types of VCS :
+
+1.Local VCS
+2.Centralized VCS
+3.Distributed VCS
+
+What is Git?
+
+>Git is a distributed VCS 
+>It allows multiple developer work Collaboratively in a project.
+>Can Effciently manage and track changes to the source code.
+
+A git project resides in three sections.
+
